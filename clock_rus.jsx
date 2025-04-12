@@ -1,5 +1,6 @@
 import { useState, useEffect } from 'react';
 
+
 // Компонент отображения сектора интервала на часах
 const IntervalSector = ({ start, end, color, index }) => {
   // Функция преобразования времени в угол (0-360 градусов)
