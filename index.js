@@ -1,7 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './index.css';
-import PerfectClockApp from './App';
+import PerfectClockApp from './clock_eng';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
